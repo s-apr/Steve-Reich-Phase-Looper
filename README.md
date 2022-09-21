@@ -5,4 +5,4 @@ This device contains four channel looping, the ability to generate random loop l
 
 Perfect for creating evolving ambient landscapes, or finding strange percussive rhythms.
 
-Link to device workflow / example.
+Link to device workflow / example: https://youtu.be/ECDLO2UtkGU
